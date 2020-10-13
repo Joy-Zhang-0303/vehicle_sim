@@ -13,7 +13,7 @@ The following sensors are simulated.
 # Download
 ```shell
 $ cd <catkin workspace/src/>
-$ git clone https://github.com/yukkysaito/vehicle_sim.git --recurse-submodules
+$ git clone https://github.com/Joy-Zhang-0303/vehicle_sim.git --recurse-submodules
 ```
 or if you already have a copy of the repo, run `$ git submodule update --init --recursive`.
 
